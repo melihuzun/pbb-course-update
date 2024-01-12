@@ -51,7 +51,7 @@ require 'checks.php';
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
+                        id="card1">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Auth 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -62,8 +62,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox13"
-                                        onclick="updateBackground('card13', 'checkbox13')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox1"
+                                        onclick="updateBackground('card1', 'checkbox1')">&nbsp;<a
                                         href='labs/a0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -73,7 +73,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card14">
+                        id="card2">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Auth 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -84,8 +84,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox14"
-                                        onclick="updateBackground('card14', 'checkbox14')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox2"
+                                        onclick="updateBackground('card2', 'checkbox2')">&nbsp;<a
                                         href='labs/a0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -95,7 +95,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card15" style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
+                        id="card3" style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Auth 0x03</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -106,8 +106,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox15"
-                                        onclick="updateBackground('card15', 'checkbox15')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox3"
+                                        onclick="updateBackground('card3', 'checkbox3')">&nbsp;<a
                                         href='labs/a0x03.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -119,7 +119,7 @@ require 'checks.php';
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
+                        id="card4">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Auth 0x04</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -130,8 +130,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox13"
-                                        onclick="updateBackground('card13', 'checkbox13')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox4"
+                                        onclick="updateBackground('card4', 'checkbox4')">&nbsp;<a
                                         href='labs/e0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -141,7 +141,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card14">
+                        id="card5">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Auth 0x05</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -152,8 +152,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox14"
-                                        onclick="updateBackground('card14', 'checkbox14')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox5"
+                                        onclick="updateBackground('card5', 'checkbox5')">&nbsp;<a
                                         href='labs/api0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -163,7 +163,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card15">
+                        id="card6">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Auth 0x06</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -174,8 +174,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox15"
-                                        onclick="updateBackground('card15', 'checkbox15')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox6"
+                                        onclick="updateBackground('card6', 'checkbox6')">&nbsp;<a
                                         href='labs/api0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -189,7 +189,7 @@ require 'checks.php';
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card1">
+                        id="card7">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">File inclusion 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -200,8 +200,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox1"
-                                        onclick="updateBackground('card1', 'checkbox1')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox7"
+                                        onclick="updateBackground('card7', 'checkbox7')">&nbsp;<a
                                         href='labs/fi0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -211,7 +211,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card2">
+                        id="card8">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">File inclusion 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -222,8 +222,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox2"
-                                        onclick="updateBackground('card2', 'checkbox2')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox8"
+                                        onclick="updateBackground('card8', 'checkbox8')">&nbsp;<a
                                         href='labs/fi0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -232,7 +232,7 @@ require 'checks.php';
                 </div>
 
                 <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card3"
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card9"
                         style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">File inclusion 0x03</h2>
@@ -244,8 +244,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox3"
-                                        onclick="updateBackground('card3', 'checkbox3')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox9"
+                                        onclick="updateBackground('card9', 'checkbox9')">&nbsp;<a
                                         href='labs/fi0x03.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -258,7 +258,7 @@ require 'checks.php';
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card1">
+                        id="card10">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SQL Injection 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -269,8 +269,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox1"
-                                        onclick="updateBackground('card1', 'checkbox1')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox10"
+                                        onclick="updateBackground('card10', 'checkbox10')">&nbsp;<a
                                         href='labs/i0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -280,7 +280,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card2">
+                        id="card11">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SQL Injection 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -291,8 +291,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox2"
-                                        onclick="updateBackground('card2', 'checkbox2')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox11"
+                                        onclick="updateBackground('card11', 'checkbox11')">&nbsp;<a
                                         href='labs/i0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -301,7 +301,7 @@ require 'checks.php';
                 </div>
 
                 <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card3"
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card12"
                         style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SQL Injection 0x03</h2>
@@ -313,8 +313,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox3"
-                                        onclick="updateBackground('card3', 'checkbox3')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox12"
+                                        onclick="updateBackground('card12', 'checkbox12')">&nbsp;<a
                                         href='labs/i0x03.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -327,7 +327,7 @@ require 'checks.php';
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card2">
+                        id="card13">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SQL Injection 0x04</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -338,8 +338,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox2"
-                                        onclick="updateBackground('card2', 'checkbox2')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox13"
+                                        onclick="updateBackground('card13', 'checkbox13')">&nbsp;<a
                                         href='labs/i0x04.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -348,7 +348,7 @@ require 'checks.php';
                 </div>
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card4">
+                        id="card14">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">XSS 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -359,8 +359,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox4"
-                                        onclick="updateBackground('card4', 'checkbox4')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox14"
+                                        onclick="updateBackground('card14', 'checkbox14')">&nbsp;<a
                                         href='labs/x0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -370,7 +370,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card5">
+                        id="card15">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">XSS 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -381,8 +381,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox5"
-                                        onclick="updateBackground('card5', 'checkbox5')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox15"
+                                        onclick="updateBackground('card15', 'checkbox15')">&nbsp;<a
                                         href='labs/x0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -396,7 +396,7 @@ require 'checks.php';
             <!-- Command inj -->
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card6"
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card16"
                         style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">XSS 0x03</h2>
@@ -408,8 +408,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox6"
-                                        onclick="updateBackground('card6', 'checkbox6')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox16"
+                                        onclick="updateBackground('card16', 'checkbox16')">&nbsp;<a
                                         href='labs/x0x03.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -418,7 +418,7 @@ require 'checks.php';
                 </div>
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card7">
+                        id="card17">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Command injection 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -429,8 +429,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox7"
-                                        onclick="updateBackground('card7', 'checkbox7')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox17"
+                                        onclick="updateBackground('card17', 'checkbox17')">&nbsp;<a
                                         href='labs/c0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -441,7 +441,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card8">
+                        id="card18">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Command injection 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -452,8 +452,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox8"
-                                        onclick="updateBackground('card8', 'checkbox8')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox18"
+                                        onclick="updateBackground('card18', 'checkbox18')">&nbsp;<a
                                         href='labs/c0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -465,7 +465,7 @@ require 'checks.php';
             <!-- SSTI & XXE -->
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card9"
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" id="card19"
                         style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Command injection 0x03</h2>
@@ -477,8 +477,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox9"
-                                        onclick="updateBackground('card9', 'checkbox9')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox19"
+                                        onclick="updateBackground('card19', 'checkbox19')">&nbsp;<a
                                         href='labs/c0x03.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -488,7 +488,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card16">
+                        id="card20">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SSTI 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -499,8 +499,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox16"
-                                        onclick="updateBackground('card16', 'checkbox16')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox20"
+                                        onclick="updateBackground('card20', 'checkbox20')">&nbsp;<a
                                         href='http://localhost:81/ssti0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -510,7 +510,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card17" style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
+                        id="card21" style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SSTI 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -521,8 +521,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox17"
-                                        onclick="updateBackground('card17', 'checkbox17')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox21"
+                                        onclick="updateBackground('card21', 'checkbox21')">&nbsp;<a
                                         href='http://localhost:81/ssti0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -530,81 +530,11 @@ require 'checks.php';
                     </div>
                 </div>
             </div>
-
-            <!-- SSRF -->
+                        <!-- File upload -->
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card17">
-                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">XXE 0x01</h2>
-                            <ul class="d-flex list-unstyled mt-auto">
-                                <li class="me-auto">
-                                    <img src="assets/logo.png" alt="Bootstrap" width="32" height="32">
-                                </li>
-                                <li class="d-flex align-items-center me-3">
-                                    <svg class="bi me-2" width="1em" height="1em">
-                                        <use xlink:href="#geo-fill" />
-                                    </svg>
-                                    <input type="checkbox" id="checkbox17"
-                                        onclick="updateBackground('card17', 'checkbox17')">&nbsp;<a
-                                        href='labs/e0x01.php'>Access lab ></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
-                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SSRF 0x01</h2>
-                            <ul class="d-flex list-unstyled mt-auto">
-                                <li class="me-auto">
-                                    <img src="assets/logo.png" alt="Bootstrap" width="32" height="32">
-                                </li>
-                                <li class="d-flex align-items-center me-3">
-                                    <svg class="bi me-2" width="1em" height="1em">
-                                        <use xlink:href="#geo-fill" />
-                                    </svg>
-                                    <input type="checkbox" id="checkbox19"
-                                        onclick="updateBackground('card19', 'checkbox19')">&nbsp;<a
-                                        href='labs/s0x01.php'>Access lab ></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card14">
-                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SSRF 0x02</h2>
-                            <ul class="d-flex list-unstyled mt-auto">
-                                <li class="me-auto">
-                                    <img src="assets/logo.png" alt="Bootstrap" width="32" height="32">
-                                </li>
-                                <li class="d-flex align-items-center me-3">
-                                    <svg class="bi me-2" width="1em" height="1em">
-                                        <use xlink:href="#geo-fill" />
-                                    </svg>
-                                    <input type="checkbox" id="checkbox14"
-                                        onclick="updateBackground('card14', 'checkbox14')">&nbsp;<a
-                                        href='labs/s0x02.php'>Access lab ></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <h1 class="h1-index">Other Attacks</h1>
-            <!-- File upload -->
-            <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-                <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card10">
+                        id="card22">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">File upload 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -615,8 +545,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox10"
-                                        onclick="updateBackground('card10', 'checkbox10')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox22"
+                                        onclick="updateBackground('card22', 'checkbox22')">&nbsp;<a
                                         href='labs/f0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -626,7 +556,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card11">
+                        id="card23">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">File upload 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -637,8 +567,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox11"
-                                        onclick="updateBackground('card11', 'checkbox11')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox23"
+                                        onclick="updateBackground('card23', 'checkbox23')">&nbsp;<a
                                         href='labs/f0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -647,8 +577,8 @@ require 'checks.php';
                 </div>
 
                 <div class="col">
-                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card12">
+                    <div id="card24" class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                        style="background-image: url('assets/logo-bg.png');background-repeat: no-repeat">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">File upload 0x03</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -659,8 +589,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox12"
-                                        onclick="updateBackground('card12', 'checkbox12')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox24"
+                                        onclick="updateBackground('card24', 'checkbox24')">&nbsp;<a
                                         href='labs/f0x03.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -668,11 +598,13 @@ require 'checks.php';
                     </div>
                 </div>
             </div>
+
+            <h1 class="h1-index">Other Attacks</h1>
             <!-- CSRF -->
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
+                        id="card25">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">CSRF 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -683,8 +615,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox19"
-                                        onclick="updateBackground('card19', 'checkbox19')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox25"
+                                        onclick="updateBackground('card25', 'checkbox25')">&nbsp;<a
                                         href='labs/csrf0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -694,7 +626,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card14">
+                        id="card26">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">CSRF 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -705,8 +637,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox14"
-                                        onclick="updateBackground('card14', 'checkbox14')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox26"
+                                        onclick="updateBackground('card26', 'checkbox26')">&nbsp;<a
                                         href='labs/csrf0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -716,7 +648,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
+                        id="card27">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Open redirect 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -727,8 +659,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox19"
-                                        onclick="updateBackground('card19', 'checkbox19')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox27"
+                                        onclick="updateBackground('card27', 'checkbox27')">&nbsp;<a
                                         href='labs/r0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -740,7 +672,7 @@ require 'checks.php';
             <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
+                        id="card28">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SSRF 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -751,8 +683,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox19"
-                                        onclick="updateBackground('card19', 'checkbox19')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox28"
+                                        onclick="updateBackground('card28', 'checkbox28')">&nbsp;<a
                                         href='labs/s0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -762,7 +694,7 @@ require 'checks.php';
 
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card14">
+                        id="card29">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">SSRF 0x02</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -773,8 +705,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox14"
-                                        onclick="updateBackground('card14', 'checkbox14')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox29"
+                                        onclick="updateBackground('card29', 'checkbox29')">&nbsp;<a
                                         href='labs/s0x02.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -783,7 +715,7 @@ require 'checks.php';
                 </div>
                 <div class="col">
                     <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                        id="card13">
+                        id="card30">
                         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                             <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Input validation 0x01</h2>
                             <ul class="d-flex list-unstyled mt-auto">
@@ -794,8 +726,8 @@ require 'checks.php';
                                     <svg class="bi me-2" width="1em" height="1em">
                                         <use xlink:href="#geo-fill" />
                                     </svg>
-                                    <input type="checkbox" id="checkbox19"
-                                        onclick="updateBackground('card19', 'checkbox19')">&nbsp;<a
+                                    <input type="checkbox" id="checkbox30"
+                                        onclick="updateBackground('card30', 'checkbox30')">&nbsp;<a
                                         href='labs/iv0x01.php'>Access lab ></a>
                                 </li>
                             </ul>
@@ -856,7 +788,8 @@ require 'checks.php';
 
     <script>
     window.onload = function() {
-        for (let i = 1; i <= 19; i++) {
+        let checkboxCount = document.querySelectorAll('input[type="checkbox"]').length;
+        for (let i = 1; i <= checkboxCount; i++) {
             if (localStorage.getItem('checkbox' + i) === 'true') {
                 document.getElementById('checkbox' + i).checked = true;
                 document.getElementById('card' + i).classList.add('bg-green');
